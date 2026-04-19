@@ -5,7 +5,7 @@
 ║        Task 1 | Cybersecurity Internship             ║
 ╚══════════════════════════════════════════════════════╝
 
-Author  : [Your Name]
+Author  : Majd El-Masri
 Program : CodeAlpha Cybersecurity Internship
 Purpose : Capture and analyze network packets in real time
 """
